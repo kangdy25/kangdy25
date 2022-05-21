@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 # Welcome to My Tistory Blog for Learning
 ### **[소웨 쉐카이나](https://kangdy25.tistory.com/)** 
 * * *
-# Welcome to Notion Memo-Note for Keeping
+# Welcome to Notion for Keeping
 ### **[풀스택 개발자로 가는 길](https://www.notion.so/Full-Stack-Developer-7545cd087dba4c88a8326e6cae7538fb)** 
 * * *
 # Portfolio Website
