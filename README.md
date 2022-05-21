@@ -8,6 +8,7 @@ You can click the Preview link to take a look at your changes.
 * * *
 # Welcome to My Blog for Learning
 ### **[소웨 쉐카이나](https://kangdy25.tistory.com/)** 
+![소웨 쉐카이나](https://user-images.githubusercontent.com/58673491/169656073-a2aa4275-256b-48ee-81f0-1e79717d2b64.PNG)
 * * *
 # Welcome to  Notion for Keeping
 ### **[풀스택 개발자로 가는 길](https://www.notion.so/Full-Stack-Developer-7545cd087dba4c88a8326e6cae7538fb)** 
