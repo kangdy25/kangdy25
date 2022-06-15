@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 
 * * *
 # Welcome to  Notion for Keeping
-### **[풀스택 개발자로 가는 길](https://www.notion.so/Full-Stack-Developer-7545cd087dba4c88a8326e6cae7538fb)** 
+### **[풀스택 개발자로 가는 길 - 수학](https://tropical-pasta-efb.notion.site/Mathematics-for-Developer-c1476a802b8a4faf99ef5c9dbfb391ad)** 
 * * *
 # Portfolio Website
