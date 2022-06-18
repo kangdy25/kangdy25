@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdy25&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-# Tech Stack
+# 🖥️ Tech Stack 🖥️
 ## Language
 <span><img src = "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"></span> 
 <span><img src = "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> </span> 
@@ -27,16 +27,13 @@ You can click the Preview link to take a look at your changes.
 ### Deployment
 <span><img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> </span> 
 
-
-
-
 * * *
-# Welcome to My Blog for Learning
+# 📜 Welcome to My Blog for Learning 📜
 ### **[소웨 쉐카이나](https://kangdy25.tistory.com/)** 
 <img width="80%" src="https://user-images.githubusercontent.com/58673491/169656073-a2aa4275-256b-48ee-81f0-1e79717d2b64.PNG"/>
 
 * * *
-# Welcome to  Notion for Keeping
+# 📓 Welcome to  Notion for Keeping 📓
 ### **[풀스택 개발자로 가는 길 - 수학](https://tropical-pasta-efb.notion.site/Mathematics-for-Developer-c1476a802b8a4faf99ef5c9dbfb391ad)** 
 ### **[풀스택 개발자로 가는 길 - 디자인](https://tropical-pasta-efb.notion.site/Design-for-Developer-7abb53d86cd542f0be76ada37df7ebd5)** 
 * * *
