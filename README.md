@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 * * *
 # 📜 Welcome to My Blog for Learning 📜
 ### **[소웨 쉐카이나](https://kangdy25.tistory.com/)** 
-<img width="80%" src="https://user-images.githubusercontent.com/58673491/174630095-4b560999-995e-446b-ad5c-35b9e14a463e.PNG"/>
+<img width="90%" src="https://user-images.githubusercontent.com/58673491/174630095-4b560999-995e-446b-ad5c-35b9e14a463e.PNG"/>
 
 * * *
 # 📓 Welcome to  Notion for Keeping 📓
