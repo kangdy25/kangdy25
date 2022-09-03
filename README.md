@@ -33,9 +33,5 @@ You can click the Preview link to take a look at your changes.
 <img width="90%" src="https://user-images.githubusercontent.com/58673491/174630095-4b560999-995e-446b-ad5c-35b9e14a463e.PNG"/>
 
 * * *
-# 📓 Welcome to  Notion for Keeping 📓
-### **[풀스택 개발자로 가는 길 - 수학](https://tropical-pasta-efb.notion.site/Mathematics-for-Developer-c1476a802b8a4faf99ef5c9dbfb391ad)** 
-### **[풀스택 개발자로 가는 길 - 디자인](https://tropical-pasta-efb.notion.site/Design-for-Developer-7abb53d86cd542f0be76ada37df7ebd5)** 
-* * *
 # Portfolio Website
 
