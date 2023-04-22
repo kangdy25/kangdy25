@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 * * *
 # 📜 Welcome to My Blog for Learning 📜
-### **[소웨 쉐카이나](https://kangdy25.tistory.com/)** 
+### **[소웨카이나](https://kangdy25.tistory.com/)** 
 <img src="https://user-images.githubusercontent.com/58673491/233769552-f76b94af-9d1c-4d25-bfca-7c4902a09792.PNG"/>
 
 
