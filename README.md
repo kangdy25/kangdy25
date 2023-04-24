@@ -26,8 +26,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> </span>  
 
 * * *
-# 📜 Welcome to My Blog for Learning 📜
-### **[소웨카이나](https://kangdy25.tistory.com/)** 
-<img src="https://user-images.githubusercontent.com/58673491/233769552-f76b94af-9d1c-4d25-bfca-7c4902a09792.PNG"/>
+# 📜 Welcome to My Blog for Learning 📜 - [바로가기](https://kangdy25.tistory.com/)
+<img src="https://user-images.githubusercontent.com/58673491/234028476-18a7e0d5-58b3-404c-b95a-584ee3d4b042.png"/>
 
 
