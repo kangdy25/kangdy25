@@ -36,6 +36,6 @@ You can click the Preview link to take a look at your changes.
 * * *
 # 📜 Welcome to My Blog for Learning 📜 
 ### [소웨카이나](https://kangdy25.tistory.com/)
-<img src="https://user-images.githubusercontent.com/58673491/234028476-18a7e0d5-58b3-404c-b95a-584ee3d4b042.png"/>
+<img src="https://github.com/kangdy25/Into_the_Javascript/assets/58673491/6caa5d98-1bd4-4278-bd30-85d39a1a978c"/>
 
 
