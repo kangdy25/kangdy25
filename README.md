@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Back-end
 <span><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </span> 
+<span><img src = "https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> </span> 
+
 
 ### Communication
 <span><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> </span> 
