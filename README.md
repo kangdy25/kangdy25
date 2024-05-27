@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </span>
 
 * * *
-# 📜 Welcome to My Blog for Learning 📜 
+# 📜 Welcome to My Blog for Learning~ 📜 
 ### [소웨카이나](https://kangdy25.tistory.com/)
 <img src="https://github.com/kangdy25/Into_the_Javascript/assets/58673491/c8dd7d7b-69cd-448b-aa25-26bd3dbcd30d"/>
 
