@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> </span>
 <span><img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> </span>
 <span><img src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </span>
-
+<span><img src = "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"> </span>
 * * *
 # 📜 Welcome to My Blog for Learning~ 📜 
 ### [소웨카이나](https://kangdy25.tistory.com/)
