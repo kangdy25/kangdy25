@@ -18,8 +18,8 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> </span> 
 
 ### Back-end
-<span><img src = "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"> </span> 
+<span><img src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> </span> 
+<span><img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> </span> 
 
 ### Mobile
 <span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
