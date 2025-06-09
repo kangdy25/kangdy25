@@ -25,9 +25,10 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
 
 ### Communication
-<span><img src = "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> </span>
-<span><img src = "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"> </span>
+<span><img src = "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> </span> 
+<span><img src = "https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> </span> 
+<span><img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> </span>
+<span><img src = "https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"> </span>
 
 
 ### Deployment
