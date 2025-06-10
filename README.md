@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 # 🖥️ Tech Stack 🖥️
 ### Front-end
 <span><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> </span> 
+<span><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> </span> 
@@ -32,9 +32,9 @@ You can click the Preview link to take a look at your changes.
 
 
 ### Deployment
-<span><img src = "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"> </span>
-<span><img src = "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"> </span>
-<span><img src = "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"> </span>
+<span><img src = "https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"> </span>
+<span><img src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"> </span>
+<span><img src = "https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> </span>
 * * *
 # 📜 Welcome to My Blog for Learning~ 📜 
 ### [소웨카이나](https://kangdy25.tistory.com/)
