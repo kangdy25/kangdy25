@@ -21,8 +21,9 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> </span> 
 
-### Mobile
-<span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
+### Desktop & Mobile
+<span><img src = "https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff"></span> 
+<span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></span> 
 
 ### Communication
 <span><img src = "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> </span> 
