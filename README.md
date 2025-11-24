@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> </span>
 <span><img src = "https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"> </span>
-
+<span><img src = "https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"> </span>
 
 ### Deployment
 <span><img src = "https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"> </span>
