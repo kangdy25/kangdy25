@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> </span> 
 <span><img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
 <span><img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> </span> 
 
