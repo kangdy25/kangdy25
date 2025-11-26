@@ -3,8 +3,6 @@
 kangdy25/kangdy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangdy25&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🖥️ Tech Stack 🖥️
 ### Front-end
 <span><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </span> 
