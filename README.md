@@ -4,7 +4,7 @@ kangdy25/kangdy25 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 # 🖥️ Tech Stack 🖥️
-### Front-end
+## Front-end
 <span><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> </span> 
@@ -14,22 +14,22 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
 <span><img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> </span> 
 
-### Back-end
+## Back-end
 <span><img src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> </span> 
 
-### Desktop & Mobile
+## Desktop & Mobile
 <span><img src = "https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff"></span> 
 <span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></span> 
 
-### Communication
+## Communication
 <span><img src = "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> </span> 
 <span><img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> </span>
 <span><img src = "https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"> </span>
 <span><img src = "https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"> </span>
 
-### Deployment
+## Deployment
 <span><img src = "https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"> </span>
 <span><img src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"> </span>
 <span><img src = "https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> </span>
