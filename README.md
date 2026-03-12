@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> </span> 
 <span><img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> </span> 
 <span><img src = "https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
-<span><img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"> </span> 
+<span><img src = "https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"> </span> 
 <span><img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> </span> 
 
 ## Back-end
