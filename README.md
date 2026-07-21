@@ -36,6 +36,7 @@ You can click the Preview link to take a look at your changes.
 <span><img src = "https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"> </span>
 <span><img src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"> </span>
 <span><img src = "https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> </span>
+<span><img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black"></span>
 * * *
 # 📜 Welcome to My Blog for Learning~ 📜 
 ### [소웨카이나](https://kangdy25.tistory.com/)
