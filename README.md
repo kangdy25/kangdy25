@@ -1,46 +1,75 @@
-# Hi there 👋 Welcome to my Github
-<!---
-kangdy25/kangdy25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 🖥️ Tech Stack 🖥️
-## Front-end
-<span><img src = "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> </span> 
-<span><img src = "https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"> </span> 
-<span><img src = "https://img.shields.io/badge/Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D"> </span> 
-<span><img src = "https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> </span> 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Isaac&fontSize=80&fontColor=ffffff&fontAlignY=40"
+  width="100%"
+  alt="Isaac GitHub Profile Header"
+/>
 
-## Back-end
-<span><img src = "https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54"> </span> 
-<span><img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white"></span>
+<p>
+  <a href="https://tropical-pasta-efb.notion.site/Isaac-Kang-s-PORTFOLIO-33100d342f96837bbe2181f8b6358744?source=copy_link">
+    <img
+      src="https://img.shields.io/badge/PORTFOLIO(Korean)-000000?style=flat-square&logo=notion&logoColor=white"
+      alt="Portfolio"
+    />
+  </a>
+  <a href="https://kangdy25.tistory.com/">
+    <img src="https://img.shields.io/badge/Tech%20Blog-EA5314?style=flat-square&logo=tistory&logoColor=white" alt="Tech Blog" />
+  </a>
+  <a href="https://www.linkedin.com/in/issac-kang-26a055321/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
-## Desktop & Mobile
-<span><img src = "https://img.shields.io/badge/Electron-2B2E3A?logo=electron&logoColor=fff"></span> 
-<span><img src = "https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB"></span> 
+## 🗣️ About Me
 
-## Communication
-<span><img src = "https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff"> </span> 
-<span><img src = "https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> </span> 
-<span><img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"> </span>
-<span><img src = "https://img.shields.io/badge/Notion-000?logo=notion&logoColor=fff"> </span>
-<span><img src = "https://img.shields.io/badge/Jira-0052CC?logo=Jira&logoColor=white"> </span>
+### 저는 보이는 것 너머의 본질까지 고민하는 개발자 강이삭입니다.
 
-## Deployment
-<span><img src = "https://img.shields.io/badge/Netlify-%23000000.svg?logo=netlify&logoColor=#00C7B7"> </span>
-<span><img src = "https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"> </span>
-<span><img src = "https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> </span>
-<span><img src="https://img.shields.io/badge/Neon-00E599?logo=neon&logoColor=black"></span>
-<span><img src="https://img.shields.io/badge/Render-%23000000.svg?logo=render&logoColor=white"></span>
-* * *
-# 📜 Welcome to My Blog for Learning~ 📜 
-### [소웨카이나](https://kangdy25.tistory.com/)
-<img src="https://github.com/kangdy25/Into_the_Javascript/assets/58673491/c8dd7d7b-69cd-448b-aa25-26bd3dbcd30d"/>
+- 🤝 팀원들과 원활한 커뮤니케이션과 상호 존중을 바탕으로 협업하는 것을 중요하게 생각합니다.
+- 🎨 사용자가 마주하는 화면에서는 자연스럽고 일관된 사용자 경험을 만드는 것을 추구합니다.
+- ⚡ 성능 최적화와 유지보수성, 확장성을 고려한 구조를 설계하는 것을 좋아합니다.
+- 📚 새로운 서비스를 만들기 위해 도메인을 이해하고 배우는 과정을 즐깁니다.
 
+## 🛠 Tech
 
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,nextjs" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,aws,vercel,docker,githubactions," />
+</p>
+
+## 🎓 Education
+
+### Korea National Open University
+
+- **B.S.** Computer Science (2023.08 – 2026.08)
+
+### Gachon University
+
+- Psychology (2021.03 – 2023.07)
+- Liberal Arts (2020.03 – 2021.02)
+
+## 💼 Experience
+
+- SWYP 12th | Frontend Developer
+- Open Source Contributor | toss/frontend-fundamental
+  - Fix `site.webmanifest` 404 issue
+
+## 📫 Contact
+
+- 📧 Email : <a href="mailto:canfrog@naver.com">canfrog@naver.com</a>
+- 🐙 GitHub : https://github.com/kangdy25
+- 📝 Blog : https://kangdy25.tistory.com
