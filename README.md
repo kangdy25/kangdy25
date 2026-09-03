@@ -62,7 +62,6 @@
 - Psychology (2021.03 – 2023.07)
 - Liberal Arts (2020.03 – 2021.02)
 
-- - -
 ### 💼 Open Source Contributor
 
 - gfxfundamentals/webgl2-fundamentals
