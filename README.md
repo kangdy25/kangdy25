@@ -64,9 +64,10 @@
 
 ## 💼 Experience
 
+- Open Source Contributor
+  - gfxfundamentals/webgl2-fundamentals: ko translation, fix typo
+  - toss/frontend-fundamental: Fix `site.webmanifest` 404 issue
 - SWYP 12th | Frontend Developer
-- Open Source Contributor | toss/frontend-fundamental
-  - Fix `site.webmanifest` 404 issue
 
 ## 📫 Contact
 
