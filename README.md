@@ -62,14 +62,18 @@
 - Psychology (2021.03 – 2023.07)
 - Liberal Arts (2020.03 – 2021.02)
 
-### 💼 Open Source Contributor
+## 💼 Experience
 
+### Open Source Contributor
 - gfxfundamentals/webgl2-fundamentals
   - ko translation, fix typo
   - fix: correct toc title, fix symbol issue in ko translation
 
 - toss/frontend-fundamental
     - Fix `site.webmanifest` 404 issue
+
+### Activity
+- SWYP 12th | Frontend Developer | (2026.01 ~ 2026.02)
 
 ## 📫 Contact
 
