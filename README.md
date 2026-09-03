@@ -65,11 +65,11 @@
 ## 💼 Experience
 
 ### Open Source Contributor
-- gfxfundamentals/webgl2-fundamentals
+- **gfxfundamentals/webgl2-fundamentals**
   - ko translation, fix typo
   - fix: correct toc title, fix symbol issue in ko translation
 
-- toss/frontend-fundamental
+- **toss/frontend-fundamental**
     - Fix `site.webmanifest` 404 issue
 
 ### Activity
